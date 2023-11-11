@@ -1,5 +1,6 @@
 # ApiRespo
 
+Its uses secrets API & check the autorizations and displays secrets from secret API
 
 ## Technologies Used
 
@@ -19,12 +20,12 @@ Follow these steps to get the project up and running on your local machine for d
 
 ### Installation
 
-To run API repo locally, follow these steps:
+To run API rep locally, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/boredom.git
+   git clone https://github.com/username/ApiRespo.git
    ```
 
 2. Install the required dependencies using npm:
@@ -43,7 +44,7 @@ To run API repo locally, follow these steps:
 
 ## Contributing
 
-Contributions to Api repo are welcome! To contribute, follow these steps:
+Contributions to Api rep are welcome! To contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
